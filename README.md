@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/KushalThakare/Leetcode-progress/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KushalThakare/Leetcode-progress/tree/master/0056-merge-intervals) |
+## Two Pointers
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
