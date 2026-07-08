@@ -6,5 +6,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/KushalThakare/Leetcode-progress/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+## Simulation
+|  |
+| ------- |
+| [3726-remove-zeros-in-decimal-representation](https://github.com/KushalThakare/Leetcode-progress/tree/master/3726-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->
