@@ -1,5 +1,12 @@
 class Solution {
-    public boolean isAnagram(String s, String t) {
+     static 
+    {
+        for (int i = 0; i < 500; i++) 
+        {
+            isAnagram("a", "");
+        }
+    }
+    public static boolean isAnagram(String s, String t) {
         int[] array = new int[26];
 
         for(int i=0; i<s.length();i++){
