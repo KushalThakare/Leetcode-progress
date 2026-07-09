@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KushalThakare/Leetcode-progress/tree/master/0056-merge-intervals) |
+| [0074-search-a-2d-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
