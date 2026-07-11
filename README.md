@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/KushalThakare/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/KushalThakare/Leetcode-progress/tree/master/0520-detect-capital) |
 ## Hash Table
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
+| [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
 |  |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0410-split-array-largest-sum) |
+| [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
 | [2643-row-with-maximum-ones](https://github.com/KushalThakare/Leetcode-progress/tree/master/2643-row-with-maximum-ones) |
