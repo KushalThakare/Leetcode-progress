@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KushalThakare/Leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0151-reverse-words-in-a-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/KushalThakare/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0151-reverse-words-in-a-string) |
 | [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
