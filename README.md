@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KushalThakare/Leetcode-progress/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/KushalThakare/Leetcode-progress/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/KushalThakare/Leetcode-progress/tree/master/0056-merge-intervals) |
+| [0169-majority-element](https://github.com/KushalThakare/Leetcode-progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
 ## Array
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/KushalThakare/Leetcode-progress/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/0074-search-a-2d-matrix) |
+| [0169-majority-element](https://github.com/KushalThakare/Leetcode-progress/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0410-split-array-largest-sum) |
 | [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KushalThakare/Leetcode-progress/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
@@ -118,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KushalThakare/Leetcode-progress/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
 ## Union-Find
 |  |
