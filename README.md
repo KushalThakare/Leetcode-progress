@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0088-merge-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/KushalThakare/Leetcode-progress/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/KushalThakare/Leetcode-progress/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0240-search-a-2d-matrix-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/KushalThakare/Leetcode-progress/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0410-split-array-largest-sum) |
