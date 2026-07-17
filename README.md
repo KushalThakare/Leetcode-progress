@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/KushalThakare/Leetcode-progress/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/KushalThakare/Leetcode-progress/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 | [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/KushalThakare/Leetcode-progress/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/KushalThakare/Leetcode-progress/tree/master/0319-bulb-switcher) |
 | [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
