@@ -18,12 +18,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/KushalThakare/Leetcode-progress/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/KushalThakare/Leetcode-progress/tree/master/2413-smallest-even-multiple) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/KushalThakare/Leetcode-progress/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/0054-spiral-matrix) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/KushalThakare/Leetcode-progress/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## String
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0567-permutation-in-string) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KushalThakare/Leetcode-progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Sorting
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [2643-row-with-maximum-ones](https://github.com/KushalThakare/Leetcode-progress/tree/master/2643-row-with-maximum-ones) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KushalThakare/Leetcode-progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
