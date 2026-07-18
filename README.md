@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/KushalThakare/Leetcode-progress/tree/master/0204-count-primes) |
 | [0292-nim-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/KushalThakare/Leetcode-progress/tree/master/0319-bulb-switcher) |
+| [0412-fizz-buzz](https://github.com/KushalThakare/Leetcode-progress/tree/master/0412-fizz-buzz) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KushalThakare/Leetcode-progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/KushalThakare/Leetcode-progress/tree/master/0412-fizz-buzz) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/KushalThakare/Leetcode-progress/tree/master/3726-remove-zeros-in-decimal-representation) |
 ## String
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/KushalThakare/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
+| [0412-fizz-buzz](https://github.com/KushalThakare/Leetcode-progress/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/KushalThakare/Leetcode-progress/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/KushalThakare/Leetcode-progress/tree/master/0520-detect-capital) |
