@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/KushalThakare/Leetcode-progress/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/KushalThakare/Leetcode-progress/tree/master/2413-smallest-even-multiple) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/KushalThakare/Leetcode-progress/tree/master/3726-remove-zeros-in-decimal-representation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Simulation
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/KushalThakare/Leetcode-progress/tree/master/0204-count-primes) |
+| [2413-smallest-even-multiple](https://github.com/KushalThakare/Leetcode-progress/tree/master/2413-smallest-even-multiple) |
 ## Bit Manipulation
 |  |
 | ------- |
