@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/KushalThakare/Leetcode-progress/tree/master/0319-bulb-switcher) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KushalThakare/Leetcode-progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2235-add-two-integers](https://github.com/KushalThakare/Leetcode-progress/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/KushalThakare/Leetcode-progress/tree/master/2413-smallest-even-multiple) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KushalThakare/Leetcode-progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Game Theory
 |  |
 | ------- |
