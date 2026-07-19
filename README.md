@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KushalThakare/Leetcode-progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/KushalThakare/Leetcode-progress/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
 ## Array
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0540-single-element-in-a-sorted-array) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/KushalThakare/Leetcode-progress/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KushalThakare/Leetcode-progress/tree/master/1431-kids-with-the-greatest-number-of-candies) |
