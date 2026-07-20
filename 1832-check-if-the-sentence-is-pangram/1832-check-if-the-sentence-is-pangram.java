@@ -4,19 +4,16 @@ class Solution {
             return false;
         }
 
-        int[] map = new int[27];
+        String ans ="";
 
-        for(int i = 0; i<sentence.length(); i++){
-            char curr = sentence.charAt(i);
-
-            map[curr-'a'+1]++;
-        }
-
-        for(int i=1; i<map.length; i++){
-            if(map[i]==0){
-                return false;
+        for(int i=0; i<sentence.length(); i++){
+            if(ans.indexOf(sentence.charAt(i))==-1){
+                ans = ans+sentence.charAt(i);
             }
         }
-        return true;
+
+        return ans.length()==26;
+
+        
     }
 }
