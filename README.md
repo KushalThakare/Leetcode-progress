@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/KushalThakare/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/KushalThakare/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/KushalThakare/Leetcode-progress/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/KushalThakare/Leetcode-progress/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/KushalThakare/Leetcode-progress/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/KushalThakare/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0567-permutation-in-string) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/KushalThakare/Leetcode-progress/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/KushalThakare/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KushalThakare/Leetcode-progress/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
 ## Array
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/KushalThakare/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KushalThakare/Leetcode-progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Game Theory
 |  |
