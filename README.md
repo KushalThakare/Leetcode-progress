@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/KushalThakare/Leetcode-progress/tree/master/1108-defanging-an-ip-address) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KushalThakare/Leetcode-progress/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2810-faulty-keyboard](https://github.com/KushalThakare/Leetcode-progress/tree/master/2810-faulty-keyboard) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0567-permutation-in-string) |
 | [1512-number-of-good-pairs](https://github.com/KushalThakare/Leetcode-progress/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KushalThakare/Leetcode-progress/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KushalThakare/Leetcode-progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
