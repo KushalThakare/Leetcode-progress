@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/KushalThakare/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/KushalThakare/Leetcode-progress/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/KushalThakare/Leetcode-progress/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
 | [0520-detect-capital](https://github.com/KushalThakare/Leetcode-progress/tree/master/0520-detect-capital) |
