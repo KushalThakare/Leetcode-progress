@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0567-permutation-in-string) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/KushalThakare/Leetcode-progress/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KushalThakare/Leetcode-progress/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/KushalThakare/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KushalThakare/Leetcode-progress/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Array
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KushalThakare/Leetcode-progress/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KushalThakare/Leetcode-progress/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/1480-running-sum-of-1d-array) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/KushalThakare/Leetcode-progress/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/KushalThakare/Leetcode-progress/tree/master/1512-number-of-good-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KushalThakare/Leetcode-progress/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Union-Find
