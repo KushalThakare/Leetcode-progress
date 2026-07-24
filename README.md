@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/KushalThakare/Leetcode-progress/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/KushalThakare/Leetcode-progress/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/KushalThakare/Leetcode-progress/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/KushalThakare/Leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/KushalThakare/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/KushalThakare/Leetcode-progress/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/KushalThakare/Leetcode-progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0090-subsets-ii) |
 | [0268-missing-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0268-missing-number) |
