@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/KushalThakare/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushalThakare/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KushalThakare/Leetcode-progress/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/KushalThakare/Leetcode-progress/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/KushalThakare/Leetcode-progress/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KushalThakare/Leetcode-progress/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/KushalThakare/Leetcode-progress/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/KushalThakare/Leetcode-progress/tree/master/1089-duplicate-zeros) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/KushalThakare/Leetcode-progress/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0567-permutation-in-string) |
+| [0905-sort-array-by-parity](https://github.com/KushalThakare/Leetcode-progress/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/KushalThakare/Leetcode-progress/tree/master/1089-duplicate-zeros) |
 | [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
