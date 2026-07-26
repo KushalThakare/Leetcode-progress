@@ -191,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/KushalThakare/Leetcode-progress/tree/master/0374-guess-number-higher-or-lower) |
 | [0410-split-array-largest-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -326,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/KushalThakare/Leetcode-progress/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/KushalThakare/Leetcode-progress/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/KushalThakare/Leetcode-progress/tree/master/1757-recyclable-and-low-fat-products) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/KushalThakare/Leetcode-progress/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
