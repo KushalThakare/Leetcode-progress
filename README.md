@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/KushalThakare/Leetcode-progress/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0912-sort-an-array) |
+| [1089-duplicate-zeros](https://github.com/KushalThakare/Leetcode-progress/tree/master/1089-duplicate-zeros) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KushalThakare/Leetcode-progress/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/1470-shuffle-the-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/KushalThakare/Leetcode-progress/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0567-permutation-in-string) |
+| [1089-duplicate-zeros](https://github.com/KushalThakare/Leetcode-progress/tree/master/1089-duplicate-zeros) |
 | [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
