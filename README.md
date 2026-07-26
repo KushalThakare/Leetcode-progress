@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/KushalThakare/Leetcode-progress/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/KushalThakare/Leetcode-progress/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/KushalThakare/Leetcode-progress/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/KushalThakare/Leetcode-progress/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/KushalThakare/Leetcode-progress/tree/master/0073-set-matrix-zeroes) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/KushalThakare/Leetcode-progress/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/KushalThakare/Leetcode-progress/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/KushalThakare/Leetcode-progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0216-combination-sum-iii) |
