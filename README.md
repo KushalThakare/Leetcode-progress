@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/KushalThakare/Leetcode-progress/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KushalThakare/Leetcode-progress/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/KushalThakare/Leetcode-progress/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/KushalThakare/Leetcode-progress/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/KushalThakare/Leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/KushalThakare/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0171-excel-sheet-column-number) |
@@ -361,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/KushalThakare/Leetcode-progress/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/KushalThakare/Leetcode-progress/tree/master/0374-guess-number-higher-or-lower) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/KushalThakare/Leetcode-progress/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
