@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/KushalThakare/Leetcode-progress/tree/master/0319-bulb-switcher) |
 | [0371-sum-of-two-integers](https://github.com/KushalThakare/Leetcode-progress/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/KushalThakare/Leetcode-progress/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/KushalThakare/Leetcode-progress/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushalThakare/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1137-n-th-tribonacci-number) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/KushalThakare/Leetcode-progress/tree/master/0486-predict-the-winner) |
 | [0500-keyboard-row](https://github.com/KushalThakare/Leetcode-progress/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/KushalThakare/Leetcode-progress/tree/master/0628-maximum-product-of-three-numbers) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/KushalThakare/Leetcode-progress/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/KushalThakare/Leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/KushalThakare/Leetcode-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1137-n-th-tribonacci-number) |
 ## Greedy
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0292-nim-game) |
+| [0486-predict-the-winner](https://github.com/KushalThakare/Leetcode-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 ## String Matching
 |  |
@@ -368,4 +372,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KushalThakare/Leetcode-progress/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/KushalThakare/Leetcode-progress/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
