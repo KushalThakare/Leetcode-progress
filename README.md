@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/KushalThakare/Leetcode-progress/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/KushalThakare/Leetcode-progress/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/KushalThakare/Leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/KushalThakare/Leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/1929-concatenation-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/KushalThakare/Leetcode-progress/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/KushalThakare/Leetcode-progress/tree/master/0657-robot-return-to-origin) |
+| [0844-backspace-string-compare](https://github.com/KushalThakare/Leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/KushalThakare/Leetcode-progress/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushalThakare/Leetcode-progress/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/KushalThakare/Leetcode-progress/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/KushalThakare/Leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/KushalThakare/Leetcode-progress/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/KushalThakare/Leetcode-progress/tree/master/1089-duplicate-zeros) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KushalThakare/Leetcode-progress/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/KushalThakare/Leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Enumeration
 |  |
