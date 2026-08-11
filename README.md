@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/KushalThakare/Leetcode-progress/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0206-reverse-linked-list) |
 | [0486-predict-the-winner](https://github.com/KushalThakare/Leetcode-progress/tree/master/0486-predict-the-winner) |
 ## Tree
 |  |
@@ -402,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
