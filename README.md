@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/KushalThakare/Leetcode-progress/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KushalThakare/Leetcode-progress/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KushalThakare/Leetcode-progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/KushalThakare/Leetcode-progress/tree/master/3731-find-missing-elements) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/KushalThakare/Leetcode-progress/tree/master/3731-find-missing-elements) |
 ## Array
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [2643-row-with-maximum-ones](https://github.com/KushalThakare/Leetcode-progress/tree/master/2643-row-with-maximum-ones) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/KushalThakare/Leetcode-progress/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/KushalThakare/Leetcode-progress/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3248-snake-in-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/3248-snake-in-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
