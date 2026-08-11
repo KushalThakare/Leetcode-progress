@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1137-n-th-tribonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KushalThakare/Leetcode-progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1510-stone-game-iv](https://github.com/KushalThakare/Leetcode-progress/tree/master/1510-stone-game-iv) |
 | [1512-number-of-good-pairs](https://github.com/KushalThakare/Leetcode-progress/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/KushalThakare/Leetcode-progress/tree/master/2235-add-two-integers) |
 | [2396-strictly-palindromic-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2396-strictly-palindromic-number) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/KushalThakare/Leetcode-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/1137-n-th-tribonacci-number) |
+| [1510-stone-game-iv](https://github.com/KushalThakare/Leetcode-progress/tree/master/1510-stone-game-iv) |
 ## Greedy
 |  |
 | ------- |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/KushalThakare/Leetcode-progress/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/KushalThakare/Leetcode-progress/tree/master/0877-stone-game) |
+| [1510-stone-game-iv](https://github.com/KushalThakare/Leetcode-progress/tree/master/1510-stone-game-iv) |
 ## String Matching
 |  |
 | ------- |
@@ -418,4 +421,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/KushalThakare/Leetcode-progress/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0876-middle-of-the-linked-list) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/KushalThakare/Leetcode-progress/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/KushalThakare/Leetcode-progress/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/KushalThakare/Leetcode-progress/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/KushalThakare/Leetcode-progress/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
