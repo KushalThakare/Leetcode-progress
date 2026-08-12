@@ -408,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/KushalThakare/Leetcode-progress/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2236-root-equals-sum-of-children](https://github.com/KushalThakare/Leetcode-progress/tree/master/2236-root-equals-sum-of-children) |
 ## Linked List
 |  |
 | ------- |
