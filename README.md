@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2810-faulty-keyboard](https://github.com/KushalThakare/Leetcode-progress/tree/master/2810-faulty-keyboard) |
 | [3248-snake-in-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/3248-snake-in-matrix) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/KushalThakare/Leetcode-progress/tree/master/3726-remove-zeros-in-decimal-representation) |
+| [4020-elevator-requests-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/4020-elevator-requests-i) |
 ## String
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/3248-snake-in-matrix) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3731-find-missing-elements](https://github.com/KushalThakare/Leetcode-progress/tree/master/3731-find-missing-elements) |
+| [4020-elevator-requests-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
 | ------- |
