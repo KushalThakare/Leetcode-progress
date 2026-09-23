@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/KushalThakare/Leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/KushalThakare/Leetcode-progress/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/KushalThakare/Leetcode-progress/tree/master/1929-concatenation-of-array) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/KushalThakare/Leetcode-progress/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [2810-faulty-keyboard](https://github.com/KushalThakare/Leetcode-progress/tree/master/2810-faulty-keyboard) |
 | [3248-snake-in-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/3248-snake-in-matrix) |
@@ -464,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0876-middle-of-the-linked-list) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/KushalThakare/Leetcode-progress/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Minimax
 |  |
 | ------- |
