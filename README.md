@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2549-count-distinct-numbers-on-board](https://github.com/KushalThakare/Leetcode-progress/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/KushalThakare/Leetcode-progress/tree/master/2652-sum-multiples) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/KushalThakare/Leetcode-progress/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/KushalThakare/Leetcode-progress/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/KushalThakare/Leetcode-progress/tree/master/3726-remove-zeros-in-decimal-representation) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/KushalThakare/Leetcode-progress/tree/master/0844-backspace-string-compare) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Enumeration
 |  |
 | ------- |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/KushalThakare/Leetcode-progress/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/KushalThakare/Leetcode-progress/tree/master/2181-merge-nodes-in-between-zeros) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Minimax
 |  |
 | ------- |
