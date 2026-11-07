@@ -1,32 +1,33 @@
 class Solution {
     public boolean isValid(String s) {
+        Deque<Character> st = new ArrayDeque<>();
 
-        Stack<Character> stack = new Stack<>();
+        for(char ch: s.toCharArray()){
 
-        for (int i = 0; i < s.length(); i++) {
-
-            char c = s.charAt(i);
-
-            if (c == '(' || c == '{' || c == '[') {
-                stack.push(c);
-            } else {
-
-                if (stack.isEmpty())
-                    return false;
-
-                if (c == ')' && stack.peek() != '(')
-                    return false;
-
-                if (c == '}' && stack.peek() != '{')
-                    return false;
-
-                if (c == ']' && stack.peek() != '[')
-                    return false;
-
-                stack.pop();
+            if(ch=='(' || ch == '[' || ch == '{'){
+                st.push(ch);
             }
+            else{
+                if(st.isEmpty()){
+                    return false;
+                }
+                if(ch == ')' && st.peek() != '('){
+                    return false;
+                }
+                if(ch == ']' && st.peek() != '['){
+                    return false;
+                }
+                if(ch == '}' && st.peek() != '{'){
+                    return false;
+                }
+
+                else{
+                    st.pop();
+                }
+            }
+
         }
 
-        return stack.isEmpty();
+        return st.isEmpty();
     }
 }
