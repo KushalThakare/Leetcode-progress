@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/KushalThakare/Leetcode-progress/tree/master/0657-robot-return-to-origin) |
 | [0844-backspace-string-compare](https://github.com/KushalThakare/Leetcode-progress/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KushalThakare/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/KushalThakare/Leetcode-progress/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushalThakare/Leetcode-progress/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/KushalThakare/Leetcode-progress/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KushalThakare/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KushalThakare/Leetcode-progress/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Prefix Sum
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/KushalThakare/Leetcode-progress/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KushalThakare/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/2816-double-a-number-represented-as-a-linked-list) |
@@ -526,4 +529,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KushalThakare/Leetcode-progress/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/KushalThakare/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
