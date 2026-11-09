@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/KushalThakare/Leetcode-progress/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/KushalThakare/Leetcode-progress/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/KushalThakare/Leetcode-progress/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/KushalThakare/Leetcode-progress/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KushalThakare/Leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/KushalThakare/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0171-excel-sheet-column-number) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/KushalThakare/Leetcode-progress/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/KushalThakare/Leetcode-progress/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/KushalThakare/Leetcode-progress/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KushalThakare/Leetcode-progress/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0410-split-array-largest-sum) |
@@ -532,4 +534,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/KushalThakare/Leetcode-progress/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KushalThakare/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/KushalThakare/Leetcode-progress/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
