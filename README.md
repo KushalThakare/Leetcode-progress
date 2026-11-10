@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/KushalThakare/Leetcode-progress/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/KushalThakare/Leetcode-progress/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/KushalThakare/Leetcode-progress/tree/master/0257-binary-tree-paths) |
 | [0389-find-the-difference](https://github.com/KushalThakare/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/KushalThakare/Leetcode-progress/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/KushalThakare/Leetcode-progress/tree/master/0434-number-of-segments-in-a-string) |
@@ -421,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/KushalThakare/Leetcode-progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0216-combination-sum-iii) |
+| [0257-binary-tree-paths](https://github.com/KushalThakare/Leetcode-progress/tree/master/0257-binary-tree-paths) |
 ## Database
 |  |
 | ------- |
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KushalThakare/Leetcode-progress/tree/master/0257-binary-tree-paths) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/KushalThakare/Leetcode-progress/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Search Tree
@@ -474,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KushalThakare/Leetcode-progress/tree/master/0257-binary-tree-paths) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2236-root-equals-sum-of-children](https://github.com/KushalThakare/Leetcode-progress/tree/master/2236-root-equals-sum-of-children) |
 ## Linked List
@@ -529,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/KushalThakare/Leetcode-progress/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
