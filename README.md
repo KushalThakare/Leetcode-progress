@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/KushalThakare/Leetcode-progress/tree/master/0389-find-the-difference) |
 | [0461-hamming-distance](https://github.com/KushalThakare/Leetcode-progress/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/KushalThakare/Leetcode-progress/tree/master/0476-number-complement) |
+| [0693-binary-number-with-alternating-bits](https://github.com/KushalThakare/Leetcode-progress/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KushalThakare/Leetcode-progress/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/KushalThakare/Leetcode-progress/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Game Theory
