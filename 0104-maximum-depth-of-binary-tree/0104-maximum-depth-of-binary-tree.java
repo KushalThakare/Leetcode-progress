@@ -14,16 +14,9 @@
  * }
  */
 class Solution {
-    public int solve(TreeNode root, int curr, int max){
-        //base case
-        if(root == null){
-            return Math.max(max, curr);
-        }
-
-        return Math.max(solve(root.left, curr+1, max), solve(root.right, curr+1, max));
-        
-    }
     public int maxDepth(TreeNode root) {
-        return solve(root, 0, 0);
+        if(root == null) return 0;
+
+        return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
     }
 }
