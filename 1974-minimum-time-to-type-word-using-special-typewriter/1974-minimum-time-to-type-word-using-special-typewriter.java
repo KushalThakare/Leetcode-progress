@@ -6,7 +6,7 @@ class Solution {
         for(char ch : word.toCharArray()){
             int dist = Math.abs(curr - (ch-'a') );
             curr = ch-'a';
-            sec += Math.min(dist, Math.abs(26-dist));
+            sec += Math.min(dist, 26-dist);
             sec++;
         }
 
