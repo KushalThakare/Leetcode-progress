@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/KushalThakare/Leetcode-progress/tree/master/1108-defanging-an-ip-address) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/KushalThakare/Leetcode-progress/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/KushalThakare/Leetcode-progress/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KushalThakare/Leetcode-progress/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KushalThakare/Leetcode-progress/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2810-faulty-keyboard](https://github.com/KushalThakare/Leetcode-progress/tree/master/2810-faulty-keyboard) |
 | [3248-snake-in-matrix](https://github.com/KushalThakare/Leetcode-progress/tree/master/3248-snake-in-matrix) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/KushalThakare/Leetcode-progress/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/KushalThakare/Leetcode-progress/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/KushalThakare/Leetcode-progress/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/KushalThakare/Leetcode-progress/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Prefix Sum
 |  |
