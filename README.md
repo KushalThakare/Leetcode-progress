@@ -475,6 +475,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KushalThakare/Leetcode-progress/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0226-invert-binary-tree) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KushalThakare/Leetcode-progress/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0226-invert-binary-tree) |
@@ -522,6 +524,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0086-partition-list) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KushalThakare/Leetcode-progress/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0141-linked-list-cycle](https://github.com/KushalThakare/Leetcode-progress/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/KushalThakare/Leetcode-progress/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/KushalThakare/Leetcode-progress/tree/master/0143-reorder-list) |
@@ -564,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KushalThakare/Leetcode-progress/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0144-binary-tree-preorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/KushalThakare/Leetcode-progress/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0226-invert-binary-tree) |
@@ -580,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/KushalThakare/Leetcode-progress/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/KushalThakare/Leetcode-progress/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/KushalThakare/Leetcode-progress/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/KushalThakare/Leetcode-progress/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/KushalThakare/Leetcode-progress/tree/master/0653-two-sum-iv-input-is-a-bst) |
